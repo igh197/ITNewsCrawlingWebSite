@@ -1,0 +1,4 @@
+
+
+SQLALCHEMY_DATABASE_URI = 'mysql://root:han000719*@localhost/itnews'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
